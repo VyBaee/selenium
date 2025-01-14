@@ -1,4 +1,4 @@
-#### **Bài tập Selenium**  
+## **Bài tập Selenium**  
 
 1. **Cài đặt và cấu hình Selenium WebDriver**  
    - Sử dụng Java làm ngôn ngữ lập trình.  
@@ -34,4 +34,4 @@
    - Nếu có lỗi xảy ra, ghi lại lỗi vào file log hoặc chụp ảnh màn hình (tùy chọn).
 
 [Link chat GPT!](https://chatgpt.com/share/67867da4-0a68-8012-aed3-4345dd5ad242)
-[Link GPT chấm điểm]()
+[Link GPT chấm điểm](https://chatgpt.com/share/67867ea5-ab78-8012-98b2-d13cf5096645)
