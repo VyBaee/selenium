@@ -35,3 +35,5 @@
 
 [Link chat GPT!](https://chatgpt.com/share/67867da4-0a68-8012-aed3-4345dd5ad242)
 [Link GPT chấm điểm](https://chatgpt.com/share/67867ea5-ab78-8012-98b2-d13cf5096645)
+
+![image](https://github.com/user-attachments/assets/40d57b9e-b266-4d29-a83a-6beff52c5fb4)
