@@ -9,7 +9,7 @@ public class SeleniumExample {
 
     public static void main(String[] args) {
         // Đường dẫn đến ChromeDriver
-        System.setProperty("webdriver.chrome.driver", "C:/path/to/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "D://Intellij code//chromedriver-win64//chromedriver-win64//chromedriver.exe");
 
         // Khởi tạo WebDriver
         WebDriver driver = new ChromeDriver();
